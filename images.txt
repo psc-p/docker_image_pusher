@@ -1,3 +1,4 @@
 iyuucn/iyuuplus-dev:latest
 hslr/sun-panel:latest
 helloz/onenav
+nginx
